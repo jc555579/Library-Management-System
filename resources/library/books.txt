@@ -1,0 +1,11 @@
+// Library Books (Read Only!) (The books used here are only example. Only for project purposes.) 
+- 20481, Train Like a Grandmaster, Hikaru Nakamura
+- 20822, Slav Defense Repertoire, Nils Grandelius
+- 20938, Middlegame Concepts, Ivanchuk
+- 20911, Analyzing you games, Magnus Carlsen
+- 20990, PowerPoint Fundamentals, Marc Canlas
+- 20731, Learn How to Cook, Aimee Pangan
+- 20437, Clean Code, Robert Cecil
+- 20881. Introduction to Algorithms, Ronald Rivest
+- 20905, Code Complete, Steve McConnell
+- 20700, London System Repertoire, Levy Rozman
