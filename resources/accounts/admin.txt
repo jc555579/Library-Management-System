@@ -1,0 +1,3 @@
+// Kindly follow the format (FirstName LastName Password)
+Marc Canlas @adminMarc
+Aimee Pangan @adminAimee 
